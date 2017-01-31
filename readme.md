@@ -5,6 +5,8 @@
 ## Description
 Prevent users from entering an expired credit card month/year combination, by using the current date to disable options that occur in the past.
 
+**[View Demo](http://scariati.kissr.com/github/cc-exp/)**
+
 ## Dependencies
 * [jQuery](http://jquery.com)
 
