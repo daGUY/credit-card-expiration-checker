@@ -11,12 +11,12 @@ Prevent users from entering an expired credit card month/year combination, by us
 * [jQuery](http://jquery.com)
 
 ## Use
-Include jQuery and `jquery.ccExpirationChecker.js` in your HTML:
+Include jQuery and `jquery.ccExpirationChecker.min.js` in your HTML:
 
 ```html
 <head>
 	<script src="lib/jquery.min.js"></script>
-	<script src="lib/jquery.ccExpirationChecker.js"></script>
+	<script src="lib/jquery.ccExpirationChecker.min.js"></script>
 </head>
 ```
 
